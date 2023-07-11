@@ -102,9 +102,15 @@ justify-content: space-around;
     justify-content: space-around;
     padding: 30px 60px;
 }
+.hot-deal-description{
+    font-weight: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 .sale-container{
  align-items: center;
  gap: 20px;
+  
 }
 .hot-deal-img{
     height: 200px;
